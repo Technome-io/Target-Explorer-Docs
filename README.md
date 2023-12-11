@@ -1,6 +1,6 @@
 # Target Explorer Docs
 
-Documentation for the [AMP PD Target Explorer Tool](https://target-explorer.amp-pd.org/)
+## Documentation for the [AMP PD Target Explorer Tool](https://target-explorer.amp-pd.org/)
 
 These documents are intended to help you familiarize yourself with the features of the AMP PD Target Explorer.
 You will find explanations of how to use the AMP PD Target Explorer website to explore and discover the latest research around your favorite biomarkers.
